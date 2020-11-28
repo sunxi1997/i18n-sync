@@ -1,0 +1,14 @@
+{
+  "home": "首页",
+  "common": {
+    "confirm": "确认",
+    "cancel": "取消",
+    "sure": "确认"
+  },
+  "goods": {
+    "list": "商品列表",
+    "control": {
+      "edit": "编辑"
+    }
+  }
+}

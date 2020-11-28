@@ -1,0 +1,14 @@
+{
+  "home": "home",
+  "common": {
+    "confirm": "confirm",
+    "cancel": "cancel",
+    "sure": "确认"
+  },
+  "goods": {
+    "list": "goodsList",
+    "control": {
+      "edit": "goodsEdit"
+    }
+  }
+}
